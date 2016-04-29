@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>checkerboard.png</file>
+        <file>img/lc_open.png</file>
+        <file>img/runbasic.png</file>
+        <file>img/lc_nextrecord.png</file>
+        <file>img/lc_prevrecord.png</file>
+        <file>img/lc_reload.png</file>
+        <file>img/avmediaplayer.png</file>
+        <file>img/ok.png</file>
+        <file>img/cancel.png</file>
+        <file>img/qt.png</file>
+    </qresource>
+</RCC>
